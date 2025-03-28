@@ -1,2 +1,2 @@
 # Story_Teller
-This is a fun Storyteller bot
+This is a simple storytelling bot
